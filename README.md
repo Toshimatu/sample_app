@@ -40,4 +40,4 @@ $ rails server
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてくだ���い。
 
-(コメント)pushできているかの確認です
+(確認)pushできているかの確認です
